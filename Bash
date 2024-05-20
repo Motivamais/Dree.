@@ -1,0 +1,2 @@
+echo 'conteúdo do arquivo index.html' > index.html
+echo 'conteúdo do arquivo README.md' > README.md
